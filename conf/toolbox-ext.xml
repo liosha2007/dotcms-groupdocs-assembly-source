@@ -1,0 +1,5 @@
+<tool>
+    <key>GroupDocsAssembly</key>
+    <scope>application</scope>
+    <class>com.groupdocs.assembly.EmbedGroupDocsAssembly</class>
+</tool>
